@@ -34,7 +34,7 @@ URL:
 PS: 
    @CrossOrigin("http://localhost:4200")
      
-###Desafio
+### Desafio
 
 	Criar um sistema Web composto de um Front-end SPA (Single Page Application) Angular e um Back-end Java Spring Boot para envio de arquivos XML e posterior processamento deles.
 
@@ -50,10 +50,9 @@ PS:
 
  Todos os arquivos seguem o mesmo formato, como nos exemplos em anexo:
 
-   oexemplo_01.xml
-   oexemplo_02.xml
-   oexemplo_03.xml
-
+  	o exemplo_01.xml
+   	o exemplo_02.xml
+   	o exemplo_03.xml
 
  Não é necessário validar os dados dos arquivos, considere que eles estarão sempre corretos e no formato especificado acima.
 
@@ -65,18 +64,20 @@ PS:
 
  Ao receber cada arquivo, o back-end deve apenas imprimir na saída padrão (System.out) os códigos de agentes (/agentes/agente[]/codigo) recebidos.
 		
-Instruções
-   1.Criar o sistema utilizando as seguintes tecnologias base:
-      Front-end:
-                  oAngular 12+
-                  oAngular Material 12+
-                  oTypescript 4+
-                  oRxJS 6+
-                  oNodeJS 14+
+#### Instruções:
 
+   1.Criar o sistema utilizando as seguintes tecnologias base:
+     
+      Front-end:
+                  o Angular 12+
+                  o Angular Material 12+
+                  o Typescript 4+
+                  o RxJS 6+
+                  o NodeJS 14+
+		  
       Back-end:
-                  oSpring Boot 2
-                  oMaven 3
+                  o Spring Boot 2
+                  o Maven 3
 
 2.Disponibilizá-lo em um repositório Git público (exemplo: GitHub, Bitbucket).
 	
