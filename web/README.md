@@ -3,8 +3,9 @@
 
 init:
 
-$ npm install && npm start
-
+```console
+ $ npm install && npm start
+```
 ## Development server
 
 Run `ng serve --port 4200` for a dev server. Navigate to `http://localhost:4200`. The app will automatically reload if you change any of the source files.
