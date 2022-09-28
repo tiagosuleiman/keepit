@@ -50,11 +50,11 @@ Versões Ambiente:
 	
 	-- 8.19.2
         
-### Desafio
+### Desafio:
 
 	Criar um sistema Web composto de um Front-end SPA (Single Page Application) Angular e um Back-end Java Spring Boot para envio de arquivos XML e posterior processamento deles.
 
-#### Requisitos
+#### Requisitos:
 
  Criar uma interface Web para upload de um ou mais arquivos com extensão .xml.
 
