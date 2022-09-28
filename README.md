@@ -6,9 +6,10 @@ link direto:
    https://www.youtube.com/watch?v=npzbOh-vSoY
 
 Clonar:
-    
-   $ git clone https://github.com/tiagosuleiman/keepit.git
-   
+```shell script    
+$ git clone https://github.com/tiagosuleiman/keepit.git
+```  
+  
 Diretorios:
 suleiman@tiago:~/dev/code/java/keepit$ ls -a
    
