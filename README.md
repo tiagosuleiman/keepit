@@ -38,17 +38,41 @@ Versões Ambiente:
 
      $ java -version
      
-	-- openjdk version "11.0.16" 2022-07-19
-	-- OpenJDK Runtime Environment (build 11.0.16+8-post-Ubuntu-0ubuntu120.04)
-	-- OpenJDK 64-Bit Server VM (build 11.0.16+8-post-Ubuntu-0ubuntu120.04, mixed mode, sharing)
+	openjdk version "11.0.16" 2022-07-19
+	OpenJDK Runtime Environment (build 11.0.16+8-post-Ubuntu-0ubuntu120.04)
+	OpenJDK 64-Bit Server VM (build 11.0.16+8-post-Ubuntu-0ubuntu120.04, mixed mode, sharing)
 
      $ node -v
 	
-	-- v16.14.2
+	v16.14.2
 
      $ npm -v
 	
-	-- 8.19.2
+	8.19.2
+	
+     $ mvn -v
+     
+	Apache Maven 3.6.3
+	Maven home: /usr/share/maven
+	Java version: 11.0.16, vendor: Ubuntu, runtime: /usr/lib/jvm/java-11-openjdk-amd64
+	Default locale: pt_BR, platform encoding: UTF-8
+	OS name: "linux", version: "5.4.0-110-generic", arch: "amd64", family: "unix"
+	
+     $ cat /etc/os-release 
+     
+	NAME="Linux Mint"
+	VERSION="20.3 (Una)"
+	ID=linuxmint
+	ID_LIKE=ubuntu
+	PRETTY_NAME="Linux Mint 20.3"
+	VERSION_ID="20.3"
+	HOME_URL="https://www.linuxmint.com/"
+	SUPPORT_URL="https://forums.linuxmint.com/"
+	BUG_REPORT_URL="http://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/"
+	PRIVACY_POLICY_URL="https://www.linuxmint.com/"
+	VERSION_CODENAME=una
+	UBUNTU_CODENAME=focal
+
         
 ### Desafio:
 
