@@ -33,7 +33,23 @@ URL:
 
 PS: 
    @CrossOrigin("http://localhost:4200")
+   
+Versões Ambiente:
+
+     $ java -version
      
+	-- openjdk version "11.0.16" 2022-07-19
+	-- OpenJDK Runtime Environment (build 11.0.16+8-post-Ubuntu-0ubuntu120.04)
+	-- OpenJDK 64-Bit Server VM (build 11.0.16+8-post-Ubuntu-0ubuntu120.04, mixed mode, sharing)
+
+     $ node -v
+	
+	-- v16.14.2
+
+     $ npm -v
+	
+	-- 8.19.2
+        
 ### Desafio
 
 	Criar um sistema Web composto de um Front-end SPA (Single Page Application) Angular e um Back-end Java Spring Boot para envio de arquivos XML e posterior processamento deles.
